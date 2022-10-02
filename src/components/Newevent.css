@@ -1,0 +1,15 @@
+.odrađeno {
+    font-weight: bold;
+    border-radius: 5%;
+    border: solid 1px red;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+}
+
+.neodrađeno {
+    font-style: italic;
+    border-radius: 5%;
+    border: solid 1px red;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+}

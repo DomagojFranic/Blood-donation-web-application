@@ -1,0 +1,12 @@
+POST http://localhost:3001/api/newevents
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRmcmFuaWMiLCJpZCI6IjYzMjQ5NjcxOGNhNGEyMTgxYzgxNzI1MiIsImlhdCI6MTY2MzM0MjcxNH0.8AhYH1iQWK_TOsOX270MZLMSE0WqpiwIWWbNAgYzCbA
+
+{
+  "dejt": "2022-08-09T00:00:00.000+00:00",
+  "organizer":"Događaj s 'krivim' tokenom",
+  "location": "Kila",
+  "address": "nepoznata",
+  "time": "unknown",
+  "done": true
+}
